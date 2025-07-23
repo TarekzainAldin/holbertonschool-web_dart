@@ -1,5 +1,5 @@
-void main() { 
-    String str = "Holberton Schol";
-    print (str + str + str);
-    print ('${str.substring(0,9)}\n');
+void main() {
+  String str = "Holberton School";
+  print(str + str + str);
+  print('${str.substring(0, 9)}\n');
 }
